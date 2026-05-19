@@ -1,6 +1,6 @@
 ## Mateo Ortega
 
-Founder of **[Sapiens](sapienseducation.com)** · AI engineer building automation tools and production-grade systems for education, content, and chemical engineering.
+Founder of **[Sapiens](https://sapienseducation.com)** · AI engineer building automation tools and production-grade systems for education, content, and chemical engineering.
 
 My background is Chemical Engineering. The products reflect it: complete, opinionated tools that solve real technical problems rather than showcase demos.
 
@@ -19,5 +19,3 @@ My background is Chemical Engineering. The products reflect it: complete, opinio
 
 `Claude` `OpenRouter` `Gemini` `Groq` `Hermes Agent` `n8n`  `OpenAI/Whisper`
 `Python` `FastAPI` `Gradio` `Manim` `Playwright` `ffmpeg`
-
--->
