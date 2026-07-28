@@ -14,6 +14,12 @@ My background is Chemical Engineering. The products reflect it: complete, opinio
 | [Adobe Podcast Automator](https://github.com/mateo-ortega/adobe-podcast-automator) | File watcher that automates the full Adobe Podcast audio enhancement workflow | Playwright · watchdog · ffmpeg |
 | [Pipe Friction Calculator](https://github.com/mateo-ortega/pipe-friction-calculator) | Desktop solver for fluid friction and pressure losses using Colebrook-White | Python · CustomTkinter · Matplotlib |
 
+### Hackathons
+
+| Project | What it does | My role | Stack |
+|---|---|---|---|
+| [MichelinFit](https://github.com/SomathReinztam/michelin-wheel-finder) | Agent that recommends the correct Michelin tire from a photo of your car: multimodal vision, RAG over real Michelin fitment guides, and math-verified sizing. Built in 4 hours at ReshapeX (AgentSprint), EAFIT Medellín, July 2026. | Agent-facing UI, backend wiring, data pipeline fixes | Gemini · RAG · Function calling · Python |
+
 ### Tools
 
 `Claude` `OpenRouter` `Gemini` `Groq` `Hermes Agent` `n8n`  `OpenAI/Whisper`
